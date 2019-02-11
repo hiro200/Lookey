@@ -1,0 +1,110 @@
+/* 
+  Localizable.strings
+  Lookey
+
+  Created by jg.hwang on 2015. 4. 26..
+  Copyright (c) 2015년 comants. All rights reserved.
+*/
+
+"NETWORK_CONNECTOIN_FAIL" = "The network connection is unstable. Try again later.";
+"ALERT_APP_UPDATE" = "This is not the latest version. Please install update.";
+"ALERT_NETWORK_ERROR" = "The network connection is invalid.";
+"ALERT_NOTICE" = "Notification";
+
+"MSG_CHANGE_NATION" = "Would you like to change the country setting?";
+"MSG_NO_MATCHING_IMAGE" = "\n No image matching result found. \n";
+"MSG_ERROR_IN_GET_INFOCATION" = "There was an error inquiring results.";
+"MSG_FACEBOOK_LOG_IN_FAILED" = "Failed to log in to Facebook.\nRegister or allow Facebook account on Setting->Facebook";
+"MSG_TWITTER_LOG_IN_FAILED" = "Failed to log in to Twitter.\nRegister or allow Twitter account on Setting->Twitter";
+"MSG_FACEBOOK_ALREADY_LOG_IN" = "Delete Facebook account on Setting->Facebook.";
+"MSG_TWITTER_ALREADY_LOG_IN" = "Delete Twitter account on Setting->Twitter.";
+"MSG_SET_SNS_MENU" = "Certify at SNS setting menu before use.";
+"MSG_ERROR_ENTRY_ALREADY" = "The store can be submitted only once a day.";
+"MSG_ERROR_TERMINATION_SERVICE" = "The content service period has expired.";
+
+"MSG_SUCCESS_TO_FACEBOOK" = "Successed to upload on Facebook.";
+"MSG_FAIL_TO_FACEBOOK" = "Successed to upload on Facebook.";
+"MSG_SUCCESS_TO_TWITTER" = "Successed to upload on Twitter.";
+"MSG_FAIL_TO_TWITTER" = "Successed to upload on Twitter.";
+"MSG_FAIL_TO_UPLOAD_IMAGE" = "Failed to upload the image.";
+"MSG_FAIL_TO_KAKAO" = "Failed to upload the image.";
+
+"MSG_SUCCESS_TO_COPY" = "Copied to clipboard.";
+
+"BTN_CONFIRM" = "Confirm";
+"BTN_CANCEL" = "Cancel";
+
+"TITLE_GALLERY_HISTORY" = "Photo History";
+"TITLE_GALLERY_POPULAR" = "Popular Photo";
+"TITLE_GALLERY_RECENTLY" = "Newest Photo";
+"TITLE_GALLERY_SEARCH_HISTORY" = "Search History";
+
+// Beacon
+"MSG_NOT_AVAIABLE_BLUETOOTH" = "Plase activate the Bluetooth before use.";
+"MSG_CANNOT_USE_BLUETOOTH" = "The bluetooth is not supported. Unable to use.";
+"MSG_NO_POSSIBLE_STORE" = "No possible store to apply.";
+"MSG_ALREADY_JOINED" = "You have already submitted.";
+"MSG_NO_BEACON" = "No beacon search result found.";
+
+// 05/30 추가사항
+"BTN_REGISTER" = "Register";
+"MSG_INPUT_THE_CONTENT" = "Please type the message.";
+
+"TITLE_SETTING" = "Settings";
+"TITLE_PRIVACY_AGREEMENT" = "Agree of Personal Information";
+"TITLE_PRIVACY_NAVIGATION" = "Usage of Personal Information";
+"TITLE_NOTICE" = "Notice";
+"TITLE_SET_SERVER" = "National Server";
+"TITLE_SET_SNS" = "SNS";
+"TITLE_PRIVACY" = "Profile";
+
+"TITLE_MY_PAGE" = "My page";
+"TITLE_MY_MILEAGE" = "My mileage";
+"TITLE_HAVING_MILEAGE" = "Retentive mileage";
+"TITLE_REGISTER_EXISTING_USER" = "Register the existing user";
+"TITLE_MOVE_NUMBER" = "(Change in phone number)";
+"BTN_GO_DIRECTLY" = "Short cut";
+"TITLE_NEW_USER" = "New register or change device";
+"TITLE_MY_INFO" = "My information";
+"TITLE_ADDITIONAL_INFO" = "Addional Information";
+
+"TITLE_CONTRACT_AGREEMENT" = "Terms and Policies";
+"TITLE_SERVICE_AGREEMENT" = "Service user agreement";
+"TITLE_PRIVACY_AGREEMENT" = "Policy of Personal Information";
+"TITLE_TRADE_AGREEMENT" = "Agreement of Electronic Financial Transaction";
+"TITLE_AGREEMENT" = "Agree";
+"TITLE_AGREE_AND_CONTINE" = "Agree and Continue";
+
+"MSG_AGREE_SERVICE" = "Please agree on Terms & Conditions.";
+"MSG_AGREE_PRIVACY" = "Please agree on Privacy Policy.";
+"MSG_AGREE_TRADE" = "Please agree on Electronic Financial Transaction.";
+
+"MSG_SUCCESS_REGISTER" = "Completed registering.";
+"MSG_ALREADY_JOINED" = "You are already registered. Move to certifying page.";
+"MSG_INPUT_NAME" = "Plaease enter your name.";
+"MSG_INPUT_PHONE_NUMBER" = "Please enter the phone number.";
+"MSG_SELECT_NATION" = "Select country.";
+"TITLE_CONFIRM_JOIN" = "Check registeration";
+
+"WORD_NAME" = "Name";
+"WORD_NATION_NUMBER" = "Country number";
+"WORD_PHONE_NUMBER" = "Phone number";
+"MSG_QUERY_JOIN" = "Would you like to register with the information entered?";
+
+"MSG_SEND_AUTH_NUM" = "Verification code sent.";
+"MSG_ERROR_SEND_AUTH_NUM" = "Error occurred during sending the verification code.";
+"MSG_SUCCESS_AUTH_USER" = "Completed registering.";
+"MSG_INPUT_AUTH_NUM" = "Enter the verification code.";
+"MSG_EXPIRED_AUTH_NUM" = "Verification is expired.";
+"MSG_NOT_EXIST_USER" = "Non-existing account.";
+"MSG_INPUT_EMAIL" = "Enter the email address.";
+"MSG_CHECK_EMAIL" = "Incorrect email address.";
+"MSG_INPUT_PASSWORD" = "Enter the password.";
+"MSG_TOO_SHORT_PASSWORD" = "Password is too short.";
+"MSG_SUCCESS_TO_SAVE" = "Saved completely.";
+"MSG_ERROR_TRY_AGAIN" = "Error occurred. Please try again.";
+"MSG_NOT_CORRECT_PASSWORD" = "Your password is incorrect.";
+
+"MSG_INPUT_MESSAGE" = "Please enter message.";
+
+"MSG_SNS_CONNECT" = "Connect to the appß";
